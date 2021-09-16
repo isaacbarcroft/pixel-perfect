@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+
+}
+
+.container {
+    display: flex;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    flex-direction: column;
+    background-color: aquamarine;
+}
