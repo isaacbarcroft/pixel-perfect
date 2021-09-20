@@ -34,7 +34,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  margin-right: 106px;
+  margin-right: -12px;
 }
 
 .boxEven {
@@ -327,6 +327,7 @@ h3 {
 }
 
 footer {
+  position: relative;
   display: flex;
   height: 59px;
   color: black;
