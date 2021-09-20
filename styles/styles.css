@@ -284,6 +284,16 @@ h3 {
   top: 0px;
 }
 
+.isaac {
+  position: absolute;
+  top: 92px;
+  border: white 4px solid;
+  border-radius: 50%;
+  left: 87px;
+  z-index: 1;
+  height: 162px;
+}
+
 .p1 {
   position: absolute;
   color: #DC6752;
