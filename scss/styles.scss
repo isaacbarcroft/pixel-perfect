@@ -12,6 +12,16 @@ body {
     justify-content: space-around;
     
 }
+.btText {
+    position: absolute;
+    bottom: 32px;
+    font-size: 13px;
+    left: 35px;
+}
+.img {
+    position: absolute;
+    top: 0;
+}
 .containerLeft {
     display: flex;
     flex-direction: column;
@@ -174,19 +184,20 @@ body {
 .social3 {
     font-size: small;
     position: absolute;
-    
-    bottom: 10px;
-    right: 50px;
+    bottom: 40px;
+    right: 78px;
+
 }
 .iRight {
     color: #B5B5B5;
-    height: 20px;
-    width: 20px;
+    height: 26px;
+    width: 26px;
     text-align: center;
     bottom: 50%;
     border-radius: 50%;
     border: #B5B5B5 1px solid;
-    padding-top: 2px;
+    padding-top: 7px;
+    margin-right: 7px;
 }
  .dropdown {
      right: 10px;
@@ -224,6 +235,12 @@ h2 {
 }
  .fab {
      justify-items: flex-end;
+ }
+ .bottomBox2 {
+     position: absolute;
+     display: flex;
+     bottom: 0;
+
  }
 .bottomBox {
     justify-content: center;
