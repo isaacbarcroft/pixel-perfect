@@ -279,6 +279,11 @@ h3 {
   margin-top: 50px;
 }
 
+.img2 {
+  position: absolute;
+  top: 0px;
+}
+
 .p1 {
   position: absolute;
   color: #DC6752;
