@@ -212,14 +212,62 @@ body {
   height: 98px;
 }
 
+.simg6 {
+  position: absolute;
+  left: 30px;
+  width: 91px;
+  height: 69px;
+  top: -24px;
+}
+
+.secondBox6 h3 {
+  font-family: "Oswald";
+  position: absolute;
+  font-size: 12px;
+  top: -27px;
+  left: 136px;
+}
+
 .thirdBox6 {
   position: relative;
   height: 98px;
 }
 
+.thimg6 {
+  position: absolute;
+  width: 91px;
+  height: 67px;
+  top: -38px;
+  left: 30px;
+}
+
+.thirdBox6 h3 {
+  font-family: "Oswald";
+  position: absolute;
+  font-size: 12px;
+  left: 136px;
+  top: -43px;
+}
+
 .forthBox6 {
   position: relative;
   height: 113px;
+}
+
+.fimg6 {
+  position: absolute;
+  width: 91px;
+  height: 68px;
+  left: 30px;
+  top: -55px;
+}
+
+.forthBox6 h3 {
+  font-family: "Oswald";
+  position: absolute;
+  font-size: 12px;
+  left: 135px;
+  top: -60px;
 }
 
 .box8 {
@@ -389,7 +437,7 @@ h2 {
   font-size: 22px;
 }
 
-h3 {
+.isaacH3 {
   position: absolute;
   top: -6px;
   font-size: 14px;
