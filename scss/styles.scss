@@ -240,7 +240,44 @@ body {
 .box8 {
     margin-top: 36px;
     height: 540px;
+    position: relative;
 }
+.box8 h3 {
+  font-size: 15px;
+    position: absolute;
+    left: 103px;
+    top: 18px;
+}
+.box8-image{
+  overflow: hidden;
+  height: 100px; 
+  width: 100px;
+
+}
+.img8 {
+  overflow: hidden;
+  height: 131px; 
+  width: 131px;
+}
+.box8-right{
+  position: absolute;
+  top: 58px;
+  left: 28px;
+  height: 100px; 
+  width: 100px;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.box8-left{
+  position: absolute;
+  top: 58px;
+  right: 58px;
+  height: 100px; 
+  width: 100px;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
 
 
 .boxEnd {
