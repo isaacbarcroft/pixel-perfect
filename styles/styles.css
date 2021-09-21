@@ -293,11 +293,12 @@ body {
   overflow: hidden;
   height: 131px;
   width: 131px;
+  margin-bottom: 10px;
 }
 
 .box8-right {
   position: absolute;
-  top: 58px;
+  top: 78px;
   left: 28px;
   height: 100px;
   width: 100px;
@@ -307,7 +308,7 @@ body {
 
 .box8-left {
   position: absolute;
-  top: 58px;
+  top: 78px;
   right: 58px;
   height: 100px;
   width: 100px;
