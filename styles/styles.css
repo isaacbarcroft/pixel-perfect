@@ -179,6 +179,49 @@ body {
   height: 469px;
 }
 
+.box6H2 {
+  position: absolute;
+  left: 119px;
+  font-size: 16px;
+  top: 5px;
+}
+
+.topBox6 {
+  position: relative;
+  height: 160px;
+}
+
+.timg6 {
+  position: absolute;
+  left: 27px;
+  height: 70px;
+  top: 61px;
+  width: 95px;
+}
+
+.topBox6 h3 {
+  position: absolute;
+  left: 133px;
+  font-size: 13px;
+  font-family: "Oswald";
+  top: 51px;
+}
+
+.secondBox6 {
+  position: relative;
+  height: 98px;
+}
+
+.thirdBox6 {
+  position: relative;
+  height: 98px;
+}
+
+.forthBox6 {
+  position: relative;
+  height: 113px;
+}
+
 .box8 {
   margin-top: 36px;
   height: 540px;
