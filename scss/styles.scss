@@ -10,6 +10,7 @@ body {
 .masterContainer {
     display: flex;
     justify-content: space-around;
+    padding: 55px;
     
 }
 .btText {
@@ -25,7 +26,7 @@ body {
 .containerLeft {
     display: flex;
     flex-direction: column;
-    margin-left: 34px;
+   
 
 }
 .containerRight {
@@ -158,6 +159,12 @@ body {
     margin-top: 35px;
     height: 469px;
 }
+.topBox6 p {
+  position: absolute;
+    left: 133px;
+    top: 71px;
+    font-size: 11px;
+}
 .box6H2{
   position: absolute;
   left: 119px;
@@ -200,10 +207,21 @@ body {
   top: -27px;
   left: 136px;
 }
-
+.secondBox6 p{ 
+position: absolute;
+left: 134px;
+top: -8px;
+font-size: 11px;
+}
 .thirdBox6{
   position: relative;
   height: 98px;
+}
+.thirdBox6 p{
+position: absolute;
+left: 134px;
+bottom: 90px;
+font-size: 11px;
 }
 .thimg6{
   position: absolute;
@@ -222,6 +240,13 @@ body {
 .forthBox6{
   position: relative;
   height: 113px;
+}
+
+.forthBox6 p{
+  position: absolute;
+  left: 134px;
+  bottom: 121px;
+  font-size: 11px;
 }
 .fimg6{
   position: absolute;
@@ -284,15 +309,17 @@ body {
 
 .boxEnd {
     display: flex;
-    width: 95%;
+    width: 100%;
     bottom: 0px;
     margin-top: 74px;
     height: 173px;
-    margin-left: -14px;
-    margin-right: 84px;
 }
 .bottomImg {
 flex: 1;
+}
+.button:hover{
+  background-color: #DC6752;
+  color: white;
 }
 .button {
 
@@ -501,6 +528,8 @@ footer{
     text-align: center;
     font-size: 15px;
     background-color: gray;
+    justify-content: center;
+    align-items: center;
 }
 
 .footButton {
