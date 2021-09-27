@@ -320,6 +320,7 @@ flex: 1;
 .button:hover{
   background-color: #DC6752;
   color: white;
+  cursor: pointer;
 }
 .button {
 
@@ -507,6 +508,10 @@ font-size: 12px;
 }
  .fab {
      justify-items: flex-end;
+ }
+ .fab:hover {
+   cursor: pointer;
+   color: #a7a7a798;
  }
  .bottomBox2 {
      position: absolute;

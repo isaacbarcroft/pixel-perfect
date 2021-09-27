@@ -359,6 +359,7 @@ body {
 .button:hover {
   background-color: #DC6752;
   color: white;
+  cursor: pointer;
 }
 
 .button {
@@ -557,6 +558,11 @@ h2 {
 
 .fab {
   justify-items: flex-end;
+}
+
+.fab:hover {
+  cursor: pointer;
+  color: #a7a7a798;
 }
 
 .bottomBox2 {
