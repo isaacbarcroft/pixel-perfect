@@ -357,7 +357,7 @@ body {
 }
 
 .button:hover {
-  background-color: #DC6752;
+  background-color: #e89384;
   color: white;
   cursor: pointer;
 }
@@ -562,7 +562,8 @@ h2 {
 
 .fab:hover {
   cursor: pointer;
-  color: #a7a7a798;
+  color: white;
+  background-color: gray;
 }
 
 .bottomBox2 {

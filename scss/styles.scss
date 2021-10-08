@@ -318,7 +318,7 @@ font-size: 11px;
 flex: 1;
 }
 .button:hover{
-  background-color: #DC6752;
+  background-color: #e89384;
   color: white;
   cursor: pointer;
 }
@@ -511,7 +511,8 @@ font-size: 12px;
  }
  .fab:hover {
    cursor: pointer;
-   color: #a7a7a798;
+   color: white;
+   background-color: gray;
  }
  .bottomBox2 {
      position: absolute;
